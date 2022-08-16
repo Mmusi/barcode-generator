@@ -15,8 +15,8 @@ html{
 #main{
     background:#fff;
     margin: 0 auto;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
     box-shadow:0 1px 2px hsla(0, 0%, 0%, 0.3);
     margin-top:25px;
     margin-bottom:50px;
